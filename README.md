@@ -28,52 +28,38 @@ Y= A+B
 
 The NOT gate is an electronic circuit that produces an inverted version of the input at its output. It is also known as an inverter. If the input variable is A, the inverted output is known as NOT A. This is also shown as A' or A with a bar over the top, as shown at the outputs.
 Y= A'
+program:
+LOGIC GATES
 
-**NAND gate**
+GATE LEVEL MODEL:
+module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
+input a,b;
+output c1,c2,c3,c4,c5,c6,c7;
+not g1(c1,a);
+and g2(c2,a,b);
+or g3(c3,a,b);
+nand g4(c4,a,b);
+nor g5(c5,a,b);
+xor g6(c6,a,b);
+xnor g7(c7,a,b);
+endmodule
 
-This is a NOT-AND gate which is equal to an AND gate followed by a NOT gate. The outputs of all NAND gates are high if any of the inputs are low. The symbol is an AND gate with a small circle on the output. The small circle represents inversion.
-Y= (AB)’
+developed name:hariharasudhan N
 
-**NOR gate**
-
-This is a NOT-OR gate which is equal to an OR gate followed by a NOT gate. The outputs of all NOR gates are low if any of the inputs are high. The symbol is an OR gate with a small circle on the output. The small circle represents inversion.
-Y= (A+B)’
-
-**Ex-OR gate**
-
-The 'Exclusive-OR' gate is a circuit which will give a high output if either, but not both of its two inputs are high. An encircled plus sign (⊕) is used to show the Ex-OR operation.
-Y= A⊕B
-
-**Ex-NOR gate**
-
-The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
-Y= A⊕B
-
-**Procedure** 
-
-1.	Type the program in Quartus software.
-
-2.	Compile and run the program.
-
-3.	Generate the RTL schematic and save the logic diagram.
-
-4.	Create nodes for inputs and outputs to generate the timing diagram.
-
-5.	For different input combinations generate the timing diagram.
-
-
-**PROGRAM**
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+Register Number:24900208
  
 **Logic symbol & Truthtable**
+![WhatsApp Image 2024-12-12 at 21 59 54_469b6f3c](https://github.com/user-attachments/assets/69e2b30e-7cff-45e0-b44a-e2538e6e885a)
 
 **RTL realization Output:** 
+![WhatsApp Image 2024-12-12 at 21 59 53_1db7444a](https://github.com/user-attachments/assets/c09298ae-5839-4c9f-8cd0-7ff8e952750a)
 
-**RTL**
+**RTL**)
+![WhatsApp Image 2024-12-13 at 23 13 01_ba592e49](https://github.com/user-attachments/assets/0d59ff48-e838-4120-9fe1-77a58dcdc0a4)
+
 
 **Result:**
+The study of basic gates involves understanding the fundamental logic gates used in digital electronics. These gates perform logical operations based on binary inputs (0 and 1) and produce a specific output. Below is an overview of the basic gates and their results:
+
 
 
