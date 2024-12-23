@@ -48,14 +48,19 @@ developed name:hariharasudhan N
 
 Register Number:24900208
  
-**Logic symbol & Truthtable**
-![WhatsApp Image 2024-12-12 at 21 59 54_469b6f3c](https://github.com/user-attachments/assets/69e2b30e-7cff-45e0-b44a-e2538e6e885a)
+**Logic symbol & Truthtable**<br>
+![380986504-994fd73b-8a02-4ea0-8361-388ef783a1fd](https://github.com/user-attachments/assets/61d78791-1b62-4ffc-b3d6-9f876a1d55a9)
 
-**RTL realization Output:** 
-![WhatsApp Image 2024-12-12 at 21 59 53_1db7444a](https://github.com/user-attachments/assets/c09298ae-5839-4c9f-8cd0-7ff8e952750a)
+
+**RTL realization Output:**<br>
+![380986107-3ba20975-13bf-4ef8-8921-d19471dbe230](https://github.com/user-attachments/assets/4881b197-1027-4e48-b3c4-8d0bf8f6c177)
+
+
+
 
 **RTL**)
-![WhatsApp Image 2024-12-13 at 23 13 01_ba592e49](https://github.com/user-attachments/assets/0d59ff48-e838-4120-9fe1-77a58dcdc0a4)
+![380986000-184804d8-4e97-4732-bbc8-f3aff6709d59](https://github.com/user-attachments/assets/f164664b-7156-440f-8fb6-675d7e212f29)
+
 
 
 **Result:**
